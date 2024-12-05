@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout Practice</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+</head>
+<body>
+    <div class="main-container">
+        <div class="content-container">
+            <div id="comparea">
+                <div class="text-container">
+                    <div class="title" contenteditable="true" data-placeholder="Enter title here"></div>
+                    <div class="subtitle" contenteditable="true" data-placeholder="Enter subtitle here"></div>
+                </div>
+                <div class="typing-container">
+                    <div class="linesdiv">
+                        <!-- 18 lines will be added here (15 + 3 additional) dynamically using JavaScript -->
+                    </div>
+                    <div class="typingdiv">
+                        <div class="typing-area" contenteditable="true"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="opsarea">
+                <div class="note-buttons-container">
+                    <!-- Note buttons will be added here dynamically -->
+                </div>
+                <button id="export-png" class="export-button">Export as PNG</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
