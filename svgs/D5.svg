@@ -1,0 +1,33 @@
+<svg width="48" height="60" viewBox="0 0 48 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_137_624)">
+<rect width="48" height="60" fill="white"/>
+<path d="M6.66811 14.4024L6.25765 14.6839C0.660073 18.5235 1.68546 27.0712 8.03234 29.4779L16.6824 32.758C18.036 33.2712 18.8714 34.6345 18.7143 36.0735C18.5688 37.4068 19.2762 38.6879 20.4821 39.275L27.2951 42.5914C29.1334 43.4863 31.2691 43.5414 33.151 42.7424C40.5975 39.5812 45.343 32.1764 45.1044 24.0901L44.6953 10.2205C44.5687 5.92688 40.6032 2.78366 36.394 3.64051L28.0384 5.34142C20.3802 6.90039 13.113 9.98165 6.66811 14.4024Z" stroke="black"/>
+<circle cx="8.5" cy="20.5" r="2.3" stroke="black" stroke-width="0.4"/>
+<circle cx="14.5" cy="17.5" r="2.3" stroke="black" stroke-width="0.4"/>
+<circle cx="24.5" cy="30.5" r="2.3" stroke="black" stroke-width="0.4"/>
+<circle cx="31.176" cy="32.4249" r="0.85" transform="rotate(11.2645 31.176 32.4249)" stroke="#B5B5B5" stroke-width="0.3"/>
+<circle cx="33.4021" cy="29.5885" r="0.405428" transform="rotate(11.2645 33.4021 29.5885)" stroke="#B5B5B5" stroke-width="0.3"/>
+<circle cx="29.5" cy="24.5" r="2.3" stroke="black" stroke-width="0.4"/>
+<circle cx="34.5" cy="19.5" r="2.3" stroke="black" stroke-width="0.4"/>
+<circle cx="39.5" cy="13.5" r="2.3" stroke="black" stroke-width="0.4"/>
+<circle cx="11.5" cy="5.5" r="2.3" stroke="black" stroke-width="0.4"/>
+<circle cx="17.5" cy="22.5" r="1.3" stroke="black" stroke-width="0.4"/>
+<circle cx="25.5" cy="20.5" r="1.3" stroke="black" stroke-width="0.4"/>
+<circle cx="20.5" cy="14.5" r="2.3" stroke="black" stroke-width="0.4"/>
+<circle cx="26.5" cy="10.5" r="2.5" fill="black"/>
+<circle cx="36.1681" cy="36.5835" r="0.85" transform="rotate(-44.7441 36.1681 36.5835)" stroke="#B5B5B5" stroke-width="0.3"/>
+<circle cx="38.0333" cy="34.2334" r="0.85" transform="rotate(-44.7441 38.0333 34.2334)" stroke="#B5B5B5" stroke-width="0.3"/>
+<circle cx="39.8966" cy="31.8828" r="0.85" transform="rotate(-44.7441 39.8966 31.8828)" stroke="#B5B5B5" stroke-width="0.3"/>
+<circle cx="41.7619" cy="29.5327" r="0.85" transform="rotate(-44.7441 41.7619 29.5327)" stroke="#B5B5B5" stroke-width="0.3"/>
+<circle cx="33.2957" cy="34.5354" r="0.85" transform="rotate(-51.5119 33.2957 34.5354)" stroke="#B5B5B5" stroke-width="0.3"/>
+<circle cx="35.7156" cy="31.4922" r="0.85" transform="rotate(-51.5119 35.7156 31.4922)" stroke="#B5B5B5" stroke-width="0.3"/>
+<circle cx="38.1356" cy="28.4485" r="0.85" transform="rotate(-51.5119 38.1356 28.4485)" stroke="#B5B5B5" stroke-width="0.3"/>
+<circle cx="40.5555" cy="25.405" r="0.85" transform="rotate(-51.5119 40.5555 25.405)" stroke="#B5B5B5" stroke-width="0.3"/>
+<path d="M21.6338 49.2207C21.5153 48.9974 21.5951 48.8242 21.873 48.7012C22.1374 48.5827 22.4131 48.4163 22.7002 48.2021C22.9873 47.988 23.222 47.7669 23.4043 47.5391C23.6094 47.2839 23.8053 47.1562 23.9922 47.1562H25.0791C25.3525 47.1562 25.4893 47.293 25.4893 47.5664V56.5898C25.4893 56.8633 25.3525 57 25.0791 57H23.9854C23.7119 57 23.5752 56.8633 23.5752 56.5898V50.0889C23.5752 49.9066 23.5843 49.7243 23.6025 49.542H23.5752C23.4339 49.7197 23.279 49.8724 23.1104 50C22.9417 50.1276 22.7708 50.2279 22.5977 50.3008C22.3835 50.3919 22.2217 50.3327 22.1123 50.123L21.6338 49.2207Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_137_624">
+<rect width="48" height="60" fill="white"/>
+</clipPath>
+</defs>
+</svg>
