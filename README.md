@@ -14,4 +14,8 @@ Using this small utility, you should be able to intuitively write and export as 
 - Implement an option to add additional pages and multi-export as a PDF;
 - Add notes' sounds to buttons' hover state to enable a full focus on creation.
 
+
+
+
+
 Feel free to give any feedback!
