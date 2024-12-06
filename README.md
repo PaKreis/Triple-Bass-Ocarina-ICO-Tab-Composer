@@ -12,8 +12,9 @@ Using this small utility, you should be able to intuitively write and export as 
 ### What is currently planned:
 - Add breakpoints for smaller screens to maintain app's responsiveness;
 - Implement an option to add additional pages and multi-export as a PDF;
-- Add notes' sounds to buttons' hover state to enable a full focus on creation.
-
+- Add other types of ocarinas with a flexible switching option;
+- Add notes' sounds to buttons' hover state to enable a full focus on creation;
+- Fix minor bugs.
 
 
 
